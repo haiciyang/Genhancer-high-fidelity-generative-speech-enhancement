@@ -1,4 +1,4 @@
-# Genhancer-high-fidelity-generative-speech-enhancement
+# High-Fidelity Speech Enhancement via Generative Modeling on Discrete Codec Tokens
 Official repo for INTERSPEECH 2024 paper <i>Genhancer: High-Fidelity Speech Enhancement via Generative Modeling on Discrete Codec Tokens</i>, providing additional audio samples.
 
 - Paper: https://www.isca-archive.org/interspeech_2024/yang24h_interspeech.pdf
